@@ -17,7 +17,7 @@ plugins {
 	
 	// Source: https://plugins.gradle.org/plugin/com.github.spotbugs
 	id "com.github.spotbugs" version "1.6.9"
-}
+} 
 
 checkstyle {
 	toolVersion '8.16'
